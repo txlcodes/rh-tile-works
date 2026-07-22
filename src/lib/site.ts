@@ -1,9 +1,9 @@
 export const site = {
   name: "RH Tile Works",
   shortName: "RH Tile Works",
-  phone: "", // no phone captured for this client — Facebook message is the primary CTA
-  phoneHref: "",
-  facebook: "https://facebook.com", // placeholder — confirm real page URL with client
+  phone: "(781) 500-2983",
+  phoneHref: "tel:+17815002983",
+  facebook: "https://www.facebook.com/100010454592638",
   email: "info@rhtileworks.com", // placeholder — confirm with client
   address: "Worcester, MA",
   mapsHref: "https://maps.google.com/?q=Worcester,+MA",
